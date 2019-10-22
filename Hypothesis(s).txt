@@ -2,8 +2,10 @@ Hypothesis(s)
 
     1. Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?
     
-        Null Hypothesis: The difference between the quantity of a product in an order when no discount is given will be equal to the quantity of a product in an order when a discount is given.
+        Null Hypothesis: The quantity of a product in an order when no discount is given will be equal to the quantity of a product in an order when a discount is given.
         
         Alternative Hypothesis: The quantity of a product in an order when no discount is given will be less than the quantity of a product in an order when a discount is given
+        
+        Alpha: 0.05
         
     2. 
