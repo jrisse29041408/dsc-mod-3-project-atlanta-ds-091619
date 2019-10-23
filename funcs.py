@@ -30,3 +30,7 @@ def sql_to_df(db, query):
     df.head()
 
     return df
+
+
+# sql_to_df("Northwind_small.sqlite", "select * from Order;")
+
