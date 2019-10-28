@@ -8,4 +8,10 @@ Hypothesis(s)
         
         Alpha: 0.05
         
-    2. 
+    2. Does the country of a supplier have a statistical significant effect on the unit price of the product?
+        
+        Null Hypothesis: The unit price won't have a statistical significant effect on the unit price of a product.
+        
+        Alternative Hypothesis: The unit price has a statistical significant effect on the unit price of a product.
+        
+        Alpha: 0.05
